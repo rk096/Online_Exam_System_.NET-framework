@@ -40,10 +40,7 @@ Admins can create subjects, add questions, and manage exams. Students can create
 5. **Access the Application**:
 - Open a web browser and navigate to `http://localhost:port`.
 
-6. **Getting Started**:
-- Provide instructions for users on how to get started with your application.
-
-7. **Enjoy using the Project!**
+6. **Enjoy using the Project!**
 
 ## Contributors
 - Kamani Richa (https://github.com/rk096) - project head
